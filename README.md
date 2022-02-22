@@ -8,10 +8,10 @@
 - ⚡ Estou cursando Web Full Stack pela Labenu
 
 
-<div>
+<div align="center">
   <a href="https://github.com/jaolucas7">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jaolucas7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianobnunes&layout=compact&langs_count=16&theme=dark"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaolucas7&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
