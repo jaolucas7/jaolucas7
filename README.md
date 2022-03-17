@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Atualmente estou aprendendo React.JS
+- 🌱 Atualmente estou aprendendo Back-End
 - 💬 Conhecimentos em Front-End e futuramente em Back-End
 - 📫 Email: jaolucas7714@gmail.com
 - ⚡ Estou cursando Web Full Stack pela Labenu
